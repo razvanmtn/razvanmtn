@@ -1,6 +1,4 @@
-- 👋 Hey there! I'm **Razvan Muntian**
-- 🖥️ I got started with coding and ventured into software consulting, which I still do. I have over 10 years of experience with web-related programming languages and libraries. My focus is on web technologies and crafting robust web apps.
-- 🛠️ I'm also building [@actimato](https://twitter.com/actimato), a set of tools for marketing and management.
-- 📸 Along my entrepreneurial journey, I'm documenting every step of the way.
-- 👀 I am interested in: webdevelopment, DevOps, javascript, NodeJs, Angular, ReactJs, Git, CLI and much more
-- 💻 Where you can find me: [@razvanmuntian](https://twitter.com/razvanmuntian) - [razvanmuntian.com](https://razvanmuntian.com)
+- 👋 Hey there! I'm Razvan Muntian.
+- 🧑‍💻 I'm an indie maker. What's that, you ask? I make a living by creating startups.
+- 💫 Curious about what I've been up to? 👉 [razvanmuntian.com](https://razvanmuntian.com)
+- 🤙 Where you can find me: [@razvanmuntian](https://twitter.com/razvanmuntian)
