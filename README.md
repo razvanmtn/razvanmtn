@@ -2,3 +2,4 @@
 - 🧑‍💻 I'm an indie maker. What's that, you ask? I make a living by creating startups.
 - 💫 Curious about what I've been up to? 👉 [razvanmuntian.com](https://razvanmuntian.com)
 - 🤙 Where you can find me: [@razvanmuntian](https://twitter.com/razvanmuntian)
+- 📰 I'm sharing my build in public story in a newsletter: [razvanmuntian.substack.com](https://razvanmuntian.substack.com)
