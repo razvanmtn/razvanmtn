@@ -5,7 +5,7 @@
 ## 🚀 Featured Projects
 
 ### 🎯 Current Focus
-**[Techterms.io](https://techterms.io)** - An open source glossary app helping users learn difficult tech terms. Join our community and contribute to making tech knowledge more accessible!
+**[LunaFinder.com](https://lunafinder.com)** - Luna Finder is a simple, privacy-first photo explorer. No subscriptions. No cloud snooping. Just you and your photos.
 
 ### 🎮 Games & Interactive Tools
 - **[Snake GGWP](https://snake.ggwp.rocks)** - A multiplayer snake game where you control your snake with your mouse. Collect fruits, grow longer, and compete with other players in real-time!
@@ -18,6 +18,7 @@
 - **[Boring Papers](https://boringpapers.com)** - Generate beautiful, professional invoices in seconds. Tailored for entrepreneurs, indie makers, and small businesses.
 
 ### 🤖 AI & Productivity
+- **[Techterms.io](https://techterms.io)** - An open source glossary app helping users learn difficult tech terms. Join our community and contribute to making tech knowledge more accessible!
 - **[CollectPrompts](https://collectprompts.com)** - A platform for collecting and organizing AI prompts, helping users maximize their productivity with AI tools.
 
 ## 🌟 Connect With Me
