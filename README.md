@@ -1,25 +1,22 @@
-# 👋 Hey there! I'm Razvan Muntian
+# Hello friend! My name is Razvan 👋
+
+After one year of employment, three years of freelancing, and six years of running a software outsourcing company, I decided to build my own projects!
 
 🧑‍💻 I'm an indie maker building startups and open source projects. I love creating tools that help people be more productive and learn new skills.
 
 ## 🚀 Featured Projects
 
-### 🎯 Current Focus
-**[LunaFinder.com](https://lunafinder.com)** - Luna Finder is a simple, privacy-first photo explorer. No subscriptions. No cloud snooping. Just you and your photos.
+| Project | Description |
+|---------|-------------|
+| [IndieMakerNotes.com](https://indiemakernotes.com) | Note-taking framework for indie makers |
+| [LunaFinder.com](https://lunafinder.com) | Simple, privacy-first photo explorer with no subscriptions or cloud snooping. |
+| [Snake GGWP](https://snake.ggwp.rocks) | Multiplayer snake game. Control your snake with your mouse and compete in real-time. |
+| [Typoquiz.com](https://typoquiz.com) | Typing test platform for improving speed and accuracy through interactive exercises. |
+| [Top Rudiments](https://rudiments.top) | Precision metronome tailored for drumming rudiment practice. |
+| [Boring Papers](https://boringpapers.com) | Instantly create professional invoices. Made for entrepreneurs and indie makers. |
+| [Techterms.io](https://techterms.io) | Open source, community-powered tech glossary to help users learn difficult terms. |
 
-### 🎮 Games & Interactive Tools
-- **[Snake GGWP](https://snake.ggwp.rocks)** - A multiplayer snake game where you control your snake with your mouse. Collect fruits, grow longer, and compete with other players in real-time!
-- **[Typoquiz](https://typoquiz.com)** - An interactive typing test platform that helps users improve their typing speed and accuracy through engaging exercises.
-
-### 🎵 Music & Learning
-- **[Top Rudiments](https://rudiments.top)** - Elevate your drumming skills with our precision metronome designed specifically for rudiment practice.
-
-### 💼 Business Tools
-- **[Boring Papers](https://boringpapers.com)** - Generate beautiful, professional invoices in seconds. Tailored for entrepreneurs, indie makers, and small businesses.
-
-### 🤖 AI & Productivity
-- **[Techterms.io](https://techterms.io)** - An open source glossary app helping users learn difficult tech terms. Join our community and contribute to making tech knowledge more accessible!
-- **[CollectPrompts](https://collectprompts.com)** - A platform for collecting and organizing AI prompts, helping users maximize their productivity with AI tools.
+**You can find a full list of my projects [here](https://razvanmuntian.com/projects).**
 
 ## 🌟 Connect With Me
 - 💫 Check out my website: [razvanmuntian.com](https://razvanmuntian.com)
