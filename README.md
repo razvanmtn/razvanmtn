@@ -1,24 +1,50 @@
-# Hello friend! My name is Razvan 👋
+<img src="coding.png" alt="Razvan Muntian" width="100%" />
 
-After one year of employment, three years of freelancing, and six years of running a software outsourcing company, I decided to build my own projects!
+# Hey, I'm Razvan 🙋
 
-🧑‍💻 I'm an indie maker building startups and open source projects. I love creating tools that help people be more productive and learn new skills.
+Indie maker building my own apps. Ten years as a freelancer, then running a tech outsourcing company. Now working on my own apps.
 
-## 🚀 Featured Projects
+## Find me online
+
+- Website: [razvanmuntian.com](https://razvanmuntian.com)
+- X: [@razvanmuntian](https://x.com/razvanmuntian)
+- LinkedIn: [razvanmuntian](https://www.linkedin.com/in/razvanmuntian)
+- Bluesky: [@razvanmuntian.com](https://bsky.app/profile/razvanmuntian.com)
+- GitHub: [@razvanmtn](https://github.com/razvanmtn)
+
+## Projects
+
+### Open source
 
 | Project | Description |
 |---------|-------------|
+| [TechTerms.io](https://techterms.io) | Community-powered tech glossary for learning hard terms |
 | [IndieMakerNotes.com](https://indiemakernotes.com) | Note-taking framework for indie makers |
-| [LunaFinder.com](https://lunafinder.com) | Simple, privacy-first photo explorer with no subscriptions or cloud snooping. |
-| [Snake GGWP](https://snake.ggwp.rocks) | Multiplayer snake game. Control your snake with your mouse and compete in real-time. |
-| [Typoquiz.com](https://typoquiz.com) | Typing test platform for improving speed and accuracy through interactive exercises. |
-| [Top Rudiments](https://rudiments.top) | Precision metronome tailored for drumming rudiment practice. |
-| [Boring Papers](https://boringpapers.com) | Instantly create professional invoices. Made for entrepreneurs and indie makers. |
-| [Techterms.io](https://techterms.io) | Open source, community-powered tech glossary to help users learn difficult terms. |
 
-**You can find a full list of my projects [here](https://razvanmuntian.com/projects).**
+### Commercial
 
-## 🌟 Connect With Me
-- 💫 Check out my website: [razvanmuntian.com](https://razvanmuntian.com)
-- 🐦 Follow me on X: [@razvanmuntian](https://x.com/razvanmuntian)
-- 📰 Subscribe to my newsletter: [razvanmuntian.substack.com](https://razvanmuntian.substack.com)
+| Project | Description |
+|---------|-------------|
+| [LunaFinder.com](https://lunafinder.com) | Privacy-first photo explorer. No subscriptions, no cloud snooping |
+| [TypoQuiz.com](https://typoquiz.com) | Typing tests to improve speed and accuracy |
+| [Boring Papers](https://boringpapers.com) | Professional invoices for entrepreneurs and indie makers |
+
+[See all tech projects](https://razvanmuntian.com/tech-projects)
+
+<img src="travel.png" alt="Razvan Muntian" width="100%" />
+
+## Travel and remote work
+
+I also write about travel under a different hat.
+
+I'm not a full-time nomad. I take longer trips, usually two to four weeks or more, and work remotely while I'm there. Recent stops include Romania 🇷🇴, Thailand 🇹🇭, Portugal 🇵🇹, and Greece 🇬🇷.
+
+**Travel writer and remote worker. I take long trips and write honestly about all of it.**
+
+I share cities I recommend, coworking spots, food, things to visit, and whether a place works for nomading. Travel tips, packing, money, how to book a trip, all from my own experience, including what I got wrong.
+
+- Website: [razvanmuntian.com](https://razvanmuntian.com)
+- Substack: [razvanmuntian.substack.com](https://razvanmuntian.substack.com)
+- YouTube: [@razvanmuntian](https://www.youtube.com/@razvanmuntian)
+- Instagram: [@razvanmuntian](https://www.instagram.com/razvanmuntian)
+- TikTok: [@razvanmuntian](https://www.tiktok.com/@razvanmuntian)
