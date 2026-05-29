@@ -18,6 +18,7 @@ Indie maker building my own apps. Ten years as a freelancer, then running a tech
 
 | Project | Description |
 |---------|-------------|
+| [TechTerms.io](https://github.com/techterms/techterms) (Archived) | Community-powered tech glossary for learning hard terms |
 | [IndieMakerNotes.com](https://indiemakernotes.com) | Note-taking framework for indie makers |
 
 ### Commercial
