@@ -4,6 +4,17 @@
 
 Indie maker building my own apps. Ten years as a freelancer, then running a tech outsourcing company. Now working on my own apps.
 
+<img src="lostcause.png" alt="lostcause.dev" width="100%" />
+
+## lostcause.dev
+
+**A not-so-serious coding publication about open source, CLI tools, programming languages, and fun projects.**
+
+I've been writing code for over ten years. Then AI came along, and I didn't want vibe-coding to become the only way I write code. So this is me relearning in public: vanilla projects, new languages, open-source contributions, honest tool reviews, failed experiments, those kinds of things.
+
+- Website: [lostcause.dev](https://lostcause.dev)
+- GitHub: [Lost Cause Publication](https://github.com/LostCausePublication) (open-source projects from the publication)
+
 ## Find me online
 
 - Website: [razvanmuntian.com](https://razvanmuntian.com)
