@@ -23,6 +23,13 @@ I've been writing code for over ten years. Then AI came along, and I didn't want
 - Bluesky: [@razvanmuntian.com](https://bsky.app/profile/razvanmuntian.com)
 - GitHub: [@razvanmtn](https://github.com/razvanmtn)
 
+## Free Tools
+
+- [instavisuals.com](https://instavisuals.com?ref=github)
+- [checkyourwebcam.com](https://checkyourwebcam.com?ref=github)
+- [textdiff.dev](https://textdiff.dev?ref=github)
+- [svgtogif.com](https://svgtogif.com?ref=github)
+
 ## Projects
 
 ### Open source
