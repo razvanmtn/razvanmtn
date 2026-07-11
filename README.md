@@ -15,6 +15,13 @@ I've been writing code for over ten years. Then AI came along, and I didn't want
 - Website: [lostcause.dev](https://lostcause.dev)
 - GitHub: [Lost Cause Publication](https://github.com/LostCausePublication) (open-source projects from the publication)
 
+### Some of my articles
+
+- [Self-host your analytics for $4 per month - Getting started with GoatCounter](https://lostcause.dev/blog/self-host-your-analytics-for-4-per-month?ref=github)
+- [Why this publication exists](https://lostcause.dev/blog/why-this-publication-exists?ref=github)
+
+**The complete list of articles: [https://lostcause.dev/authors/razvanmuntian](https://lostcause.dev/authors/razvanmuntian?ref=github)
+
 ## Find me online
 
 - Website: [razvanmuntian.com](https://razvanmuntian.com)
