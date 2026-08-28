@@ -22,6 +22,13 @@ I've been writing code for over ten years. Then AI came along, and I didn't want
 
 **The complete list of articles: [https://lostcause.dev/authors/razvanmuntian](https://lostcause.dev/authors/razvanmuntian?ref=github)**
 
+## Recent Videos
+
+I record YouTube videos on my tech YouTube channel [@razvantech](https://youtube.com/@razvantech), where I explore programming languages, frameworks, tools, and everything tech-related.
+
+- [Why is Shadcn so popular?](https://www.youtube.com/watch?v=xwebR5fp5Wk)
+- [I tried Temporal after 2 years](https://www.youtube.com/watch?v=t5WW0C4PX38)
+
 ## Find me online
 
 - Website: [razvanmuntian.com](https://razvanmuntian.com)
@@ -73,8 +80,3 @@ I share cities I recommend, coworking spots, food, things to visit, and whether 
 - YouTube: [@razvanmuntian](https://www.youtube.com/@razvanmuntian)
 - Instagram: [@razvanmuntian](https://www.instagram.com/razvanmuntian)
 - TikTok: [@razvanmuntian](https://www.tiktok.com/@razvanmuntian)
-
-### Recent Videos
-
-- [Why is Shadcn so popular?](https://www.youtube.com/watch?v=xwebR5fp5Wk)
-- [I tried Temporal after 2 years](https://www.youtube.com/watch?v=t5WW0C4PX38)
