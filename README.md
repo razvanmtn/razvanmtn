@@ -76,5 +76,5 @@ I share cities I recommend, coworking spots, food, things to visit, and whether 
 
 ### Recent Videos
 
-- [Watch on YouTube](https://www.youtube.com/watch?v=xwebR5fp5Wk)
-- [Watch on YouTube](https://www.youtube.com/watch?v=t5WW0C4PX38)
+- [Why is Shadcn so popular?](https://www.youtube.com/watch?v=xwebR5fp5Wk)
+- [I tried Temporal after 2 years](https://www.youtube.com/watch?v=t5WW0C4PX38)
