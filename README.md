@@ -30,6 +30,11 @@ I've been writing code for over ten years. Then AI came along, and I didn't want
 - Bluesky: [@razvanmuntian.com](https://bsky.app/profile/razvanmuntian.com)
 - GitHub: [@razvanmtn](https://github.com/razvanmtn)
 
+## Recent Videos
+
+- [Why is Shadcn so popular?](https://www.youtube.com/watch?v=xwebR5fp5Wk)
+- [I tried Temporal after 2 years](https://www.youtube.com/watch?v=t5WW0C4PX38)
+
 ## Free Tools
 
 - [instavisuals.com](https://instavisuals.com?ref=github)
@@ -73,8 +78,3 @@ I share cities I recommend, coworking spots, food, things to visit, and whether 
 - YouTube: [@razvanmuntian](https://www.youtube.com/@razvanmuntian)
 - Instagram: [@razvanmuntian](https://www.instagram.com/razvanmuntian)
 - TikTok: [@razvanmuntian](https://www.tiktok.com/@razvanmuntian)
-
-### Recent Videos
-
-- [Why is Shadcn so popular?](https://www.youtube.com/watch?v=xwebR5fp5Wk)
-- [I tried Temporal after 2 years](https://www.youtube.com/watch?v=t5WW0C4PX38)
