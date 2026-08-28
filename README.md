@@ -73,3 +73,8 @@ I share cities I recommend, coworking spots, food, things to visit, and whether 
 - YouTube: [@razvanmuntian](https://www.youtube.com/@razvanmuntian)
 - Instagram: [@razvanmuntian](https://www.instagram.com/razvanmuntian)
 - TikTok: [@razvanmuntian](https://www.tiktok.com/@razvanmuntian)
+
+### Recent Videos
+
+- [Watch on YouTube](https://www.youtube.com/watch?v=xwebR5fp5Wk)
+- [Watch on YouTube](https://www.youtube.com/watch?v=t5WW0C4PX38)
