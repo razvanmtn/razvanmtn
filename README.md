@@ -31,7 +31,7 @@ I record YouTube videos on my tech YouTube channel [@razvantech](https://youtube
 
 ## Find me online
 
-- Website: [razvanmuntian.com](https://razvanmuntian.com)
+- Website: [razvan.page](https://razvan.page)
 - X: [@razvanmuntian](https://x.com/razvanmuntian)
 - LinkedIn: [razvanmuntian](https://www.linkedin.com/in/razvanmuntian)
 - Bluesky: [@razvanmuntian.com](https://bsky.app/profile/razvanmuntian.com)
